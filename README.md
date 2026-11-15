@@ -1,0 +1,2 @@
+# Stash
+files and configs
